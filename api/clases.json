@@ -1,0 +1,22 @@
+{
+  "clases": [
+    "Benjamin_Gálvez",
+    "Benjamín Gálvez",
+    "Benjamín Palma",
+    "Benjamín_Palma",
+    "Carlos Vasquez",
+    "Carlos_Vasquez",
+    "Fabián_Verasay",
+    "Gustavo_Espinoza",
+    "Javier Montupil",
+    "Javier_Montupil",
+    "Luciano Alcantara",
+    "Luciano_Alcantara",
+    "Matías Figueroa",
+    "Matías_Figueroa",
+    "Nicolás_Cuevas"
+  ],
+  "umbral": 0.35000000000000003,
+  "tamano_imagen": 128,
+  "configuracion": "C1 CNN-A Base"
+}
